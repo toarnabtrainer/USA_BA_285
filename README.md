@@ -44,6 +44,12 @@ https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 * **MS-Excel Cheat Sheet:**	https://drive.google.com/file/d/1dGDoOiIhFFD71FxUxMO-ZYYE2UYLNGhR/view?usp=sharing
 
 <hr>
+## UML Classwork:<br>
+
+![image](https://github.com/toarnabtrainer/USA_BA_285/assets/111301975/444925ff-e9ad-41c6-9bdd-7a76b1cb73eb)
+
+
+<hr>
 
 ## Sample Template for User Stories:
 
